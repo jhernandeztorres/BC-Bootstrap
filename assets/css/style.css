@@ -31,7 +31,10 @@ hr {
 /* Index styling */
 
 .img-index {
-    margin: 10px;
+    margin: 0;
+    padding: 0;
+    width: 70%;
+    height: auto;
 }
 
 .attentionGrabber {
@@ -41,6 +44,10 @@ hr {
 
 p {
     font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.resume, .contact {
+    color: black;
 }
 
 /* Portfolio styling */
