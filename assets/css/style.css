@@ -34,6 +34,15 @@ hr {
     margin: 10px;
 }
 
+.attentionGrabber {
+    font-family: 'Charm', cursive;
+    font-size: 2em;
+}
+
+p {
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
 /* Portfolio styling */
 .img-portfolio {
     float: left;
